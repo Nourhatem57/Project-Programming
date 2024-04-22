@@ -1,7 +1,3 @@
-Sure, here's a basic README file for the E-Commerce System:
-
----
-
 # E-Commerce System
 
 ## Overview
